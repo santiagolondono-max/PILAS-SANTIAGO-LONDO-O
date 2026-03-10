@@ -114,5 +114,5 @@ Rehecho: "Hola mundo"
 
 | Nombre | Rol |
 |--------|-----|
-| SANTIAGO LONDOLO RUA | Desarrollador |
+|SANTIAGO LONDOLO RUA| Desarrollador|
 

@@ -89,13 +89,13 @@ Seleccione una opción:
 3
 Rehecho: "Hola mundo"
 ```
-
 ---
 
 ## 📸 Capturas de pantalla
 
 > Agrega aquí las capturas después de ejecutar el programa.  
-> Puedes arrastrar las imágenes directamente al editor de GitHub.
+> Puedes arrastrar las imágenes directamente al editor de GitHub<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0f48e3f-9147-4c6f-bbcf-602eb42a8739" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/23a2cc5a-b7dd-4c0d-9e2f-5bf0a895bdeb" />
 
 ---
 
@@ -114,5 +114,5 @@ Rehecho: "Hola mundo"
 
 | Nombre | Rol |
 |--------|-----|
-| Tu Nombre Aquí | Desarrollador |
+| SANTIAGO LONDOLO RUA | Desarrollador |
 
